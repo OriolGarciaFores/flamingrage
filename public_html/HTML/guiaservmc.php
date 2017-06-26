@@ -3,6 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Flaming Rage. Guía de configuración de un server para minecraft." />
+        <meta property="og:title" content="Flaming Rage - Guía Server Minecraft" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:description" content="Guía de configuración de un server para minecraft." />
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
         <!-- Latest compiled and minified CSS -->

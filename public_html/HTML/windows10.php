@@ -3,6 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Flaming Rage. Guía de configuración e instalación del Windows 10." />
+        <meta property="og:title" content="Flaming Rage - Windows 10" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:description" content="Guía de configuración e instalación del Windows 10." />
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
         <!-- Latest compiled and minified CSS -->
@@ -43,13 +49,13 @@
 
                 <p>Para grabar en DVD es necesario insertar un DVD vacio de unos 3-4GB. Accedemos a equipo y nos aparecerá el lector del DVD indicando vacio. Pulsamos el botón derecho y le damos a reproducción automática para que nos abra una ventana de acción y le indicamos grabar disco.</p>
                 <p>
-                <img class="img-responsive img-centrar" alt="imagen" src="../Imagenes/4.PNG">
+                    <img class="img-responsive img-centrar" alt="imagen" src="../Imagenes/4.PNG">
                 </p>
                 <p>
-                <img class="img-responsive img-centrar" alt="imagen" src="../Imagenes/5.PNG">
+                    <img class="img-responsive img-centrar" alt="imagen" src="../Imagenes/5.PNG">
                 </p>
 
-                
+
                 <p>Le indicamos que se usemos el disco como un reproductor de CD o DVD.</p>
                 <p><img class="img-responsive img-centrar" alt="imagen" src="../Imagenes/6.PNG"></p>
                 <p>Finalmente se nos abrirá una ventana donde tendremos que arrastrar la ISO del Windows 10 al DVD. Luego pulsamos botón derecho y le damos a grabar disco. Finalmente nos saldrá a la siguiente ventana y le damos a siguiente y empezara a grabarse.</p>

@@ -3,6 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Flaming Rage. Música gratis, nigthcore, anime, etc." />
+        <meta property="og:title" content="Flaming Rage - Disco" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:description" content="Música gratis, nigthcore, anime, etc." />
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
         <!-- Latest compiled and minified CSS -->
@@ -37,18 +43,18 @@
 
                     <div class="col-md-6 col-sm-4 col-xs-12">
                         <div class="img-thumbnail">
-                        <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232012019&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-                        <div class="caption text-center"><h3>Nightcore Rock Tomo 1</h3></div>
-                       
+                            <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232012019&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+                            <div class="caption text-center"><h3>Nightcore Rock Tomo 1</h3></div>
+
                         </div>
                     </div>
 
                     <div class="col-md-6 col-sm-4 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232017663&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-                    <div class="caption text-center">
-                    <h3>Nightcore Rock Tomo 2</h3>
-                    </div>
+                            <div class="caption text-center">
+                                <h3>Nightcore Rock Tomo 2</h3>
+                            </div>
                         </div>
                     </div>
                 </article>
@@ -58,10 +64,10 @@
 
                     <div class="col-md-6 col-sm-4 col-xs-12">
                         <div class="img-thumbnail">
-                        <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232007543&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-                        <div class="caption text-center">
-                        <h3>Openings Tomo 1</h3>
-                        </div>
+                            <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232007543&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+                            <div class="caption text-center">
+                                <h3>Openings Tomo 1</h3>
+                            </div>
                         </div>
                     </div>
                 </article>

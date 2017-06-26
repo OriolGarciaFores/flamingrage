@@ -4,6 +4,12 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Flaming Rage. Guía para instalar y usar un mando de ps3 en el pc." />
+        <meta property="og:title" content="Flaming Rage - Guía mando para PC" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:description" content="Guía para instalar y usar un mando de ps3 en el pc." />
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
         <!-- Latest compiled and minified CSS -->

@@ -3,6 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Flaming Rage. Descarga del Photoshop CS6 portable." />
+        <meta property="og:title" content="Flaming Rage - Photoshop" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:description" content="Descarga del Photoshop CS6 portable." />
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
         <!-- Latest compiled and minified CSS -->
