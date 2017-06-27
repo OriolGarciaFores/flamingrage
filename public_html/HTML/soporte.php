@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Flaming Rage. Contacto con los administradores y desarrolladores de la pagina web." />
+        <meta name="keywords" content="Flaming Rage, Contacto, Soporte." />
         <meta property="og:title" content="Flaming Rage - Soporte" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/soporte.php" />

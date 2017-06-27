@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Página principal de Flaming Rage. Guías y descargas de aplicaciones más usadas, gratuitamente." />
+        <meta name="keywords" content="Flaming Rage, Guias, Descargas y Disco." />
         <meta property="og:title" content="Flaming Rage" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="http://www.flamingrage.hol.es/" />

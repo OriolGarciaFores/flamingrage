@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Flaming Rage. Guía de configuración de un server para minecraft." />
+        <meta name="keywords" content="Flaming Rage, Guias, Descargas, server Minecraft." />
         <meta property="og:title" content="Flaming Rage - Guía Server Minecraft" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/guiaservmc.php" />

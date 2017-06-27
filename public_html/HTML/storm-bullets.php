@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Flaming Rage. Proyecto de un videojuego desarrollado en Java." />
+        <meta name="keywords" content="Flaming Rage, Proyecto, Storm Bullets, videojuego en Java, juego 2d." />
         <meta property="og:title" content="Flaming Rage - Storm Bullets" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/storm-bullets.php" />
