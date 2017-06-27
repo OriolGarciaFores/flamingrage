@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Descarga del Photoshop CS6 portable." />
         <meta property="og:title" content="Flaming Rage - Photoshop" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/photoshopcs6.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Descarga del Photoshop CS6 portable." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/photoshopcs6.php">

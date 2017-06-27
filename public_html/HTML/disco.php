@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Música gratis, nigthcore, anime, etc." />
         <meta property="og:title" content="Flaming Rage - Disco" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/disco.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Música gratis, nigthcore, anime, etc." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/disco.php">

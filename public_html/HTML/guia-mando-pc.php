@@ -7,7 +7,7 @@
         <meta name="description" content="Flaming Rage. Guía para instalar y usar un mando de ps3 en el pc." />
         <meta property="og:title" content="Flaming Rage - Guía mando para PC" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/guia-mando-pc.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Guía para instalar y usar un mando de ps3 en el pc." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/guia-mando-pc.php">

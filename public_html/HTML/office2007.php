@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Descarga del Office 2007." />
         <meta property="og:title" content="Flaming Rage - Office 2007" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/office2007.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Descarga del Office 2007." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/office2007.php">

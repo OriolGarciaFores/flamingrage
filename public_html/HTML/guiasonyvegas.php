@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Guía de configuración de Sony Vegas PRO 12 y FRAPS." />
         <meta property="og:title" content="Flaming Rage - Guía Sony Vegas y FRAPS" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/guiasonyvegas.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Guía de configuración de Sony Vegas PRO 12 y FRAPS." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/guiasonyvegas.php">

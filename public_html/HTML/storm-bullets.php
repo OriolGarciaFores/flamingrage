@@ -7,7 +7,7 @@
         <meta name="description" content="Flaming Rage. Proyecto de un videojuego desarrollado en Java." />
         <meta property="og:title" content="Flaming Rage - Storm Bullets" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/storm-bullets.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Proyecto de un videojuego desarrollado en Java." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/storm-bullets.php">

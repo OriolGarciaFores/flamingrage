@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Contacto con los administradores y desarrolladores de la pagina web." />
         <meta property="og:title" content="Flaming Rage - Soporte" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/soporte.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Contacto con los administradores y desarrolladores de la pagina web." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/soporte.php">

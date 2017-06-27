@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Guía de configuración e instalación del Windows 10." />
         <meta property="og:title" content="Flaming Rage - Windows 10" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/windows10.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Guía de configuración e instalación del Windows 10." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/windows10.php">

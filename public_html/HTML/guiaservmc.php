@@ -6,7 +6,7 @@
         <meta name="description" content="Flaming Rage. Guía de configuración de un server para minecraft." />
         <meta property="og:title" content="Flaming Rage - Guía Server Minecraft" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://www.flamingrage.hol.es/" />
+        <meta property="og:url" content="http://www.flamingrage.hol.es/HTML/guiaservmc.php" />
         <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Guía de configuración de un server para minecraft." />
         <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/guiaservmc.php">
