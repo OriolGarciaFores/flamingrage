@@ -7,10 +7,13 @@
         <meta property="og:title" content="Flaming Rage - Soporte" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="http://www.flamingrage.hol.es/" />
-        <meta property="og:image" content="../Imagenes/alts.png" />
+        <meta property="og:image" content="http://www.flamingrage.hol.es/Imagenes/alts.png" />
         <meta property="og:description" content="Contacto con los administradores y desarrolladores de la pagina web." />
+        <link rel="canonical" href="http://www.flamingrage.hol.es/HTML/soporte.php">
         <link rel="shortcut icon" href="../Imagenes/iconoflamingrage.ico">
         <link rel="stylesheet" type="text/css" href="../CSS/resetstyles.css">
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <!-- Optional theme -->

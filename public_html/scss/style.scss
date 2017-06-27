@@ -305,7 +305,7 @@ footer{
     nav{
         height: 100%;
         background-color: darkslategray;
-        position:absolute;
+        position:fixed;
         width: 12.5em; /*200px*/
         padding: 0 1em;
         top:0;
@@ -324,6 +324,7 @@ footer{
     }
 
     nav.open{
+        position: fixed;
         transform: translate(0,0); /*Moves the drawer on canvas*/
         -webkit-transform: translate(0,0);
         -moz-transform: translate(0,0);
