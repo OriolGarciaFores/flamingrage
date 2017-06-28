@@ -39,7 +39,7 @@
             <!-- LIST VIDEOS -->
 
             <section class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/9SygUTwLeAM" allowfullscreen frameborder="0"></iframe>
                         <div class="caption text-center">
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/CLjXHuLGDiE" allowfullscreen frameborder="0"></iframe>
                         <div class="caption text-center">
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/K0LsMgjVvOo" allowfullscreen frameborder="0"></iframe>
                         <div class="caption text-center">
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/Ag-ccTN440M" allowfullscreen frameborder="0"></iframe>
                         <div class="caption text-center">
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/E-O1Vel4NPo" allowfullscreen frameborder="0"></iframe>
                         <div class="caption text-center">
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="img-thumbnail">
                         <iframe src="https://www.youtube.com/embed/YvrAggneFkU" frameborder="0" allowfullscreen></iframe>
                         <div class="caption text-center">

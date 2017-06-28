@@ -156,6 +156,14 @@ NAVIGATION
   padding: 1em;
   font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
   text-align: justify; }
+  .subcontenido input {
+    border-radius: 0; }
+  .subcontenido textArea {
+    border-radius: 0;
+    resize: vertical;
+    max-height: 300px; }
+  .subcontenido button {
+    border-radius: 0; }
   .subcontenido .separador {
     background-color: darkslategray;
     color: white; }
