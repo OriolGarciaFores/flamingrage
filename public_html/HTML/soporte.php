@@ -96,7 +96,7 @@
                 <p><a href=mailto:flamingrage.oriolarnau@gmail.com>flamingrage.oriolarnau@gmail.com</a></p>
 
                 <div class="row">
-                    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST">
+                    <form action="<?php echo htmlspecialchars("envio.php"); ?>" method="POST">
                         <div class="col-xs-offset-2 col-xs-8">
                             <div class="form-group">
                                 <input placeholder="Nombre o Nick" name="name" type="text" class="form-control" value="<?php echo $name ?>" required/>
