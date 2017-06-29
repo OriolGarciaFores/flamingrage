@@ -25,6 +25,7 @@
             <img class="img-responsive img-centrar" src="../Imagenes/mantenimiento.png">
 
         </main>
+        <?php include('footer.php'); ?>
        <!-- <script type="text/javascript" src="../Js/snow.js"></script>-->
         <script>
             /*

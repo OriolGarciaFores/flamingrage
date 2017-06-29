@@ -99,6 +99,24 @@
                 <article class="col-lg-12">
                     <p>27/05/17 @13:13</p>
                     <p>Buenas!,</p>
+                    <p>Ya llevo un tiempo realizando una serie de arreglos en la web.</p>
+                    <p>Cambios realizados:</p>
+                    <ul>
+                        <li>	Nuevo diseño de la web soporte, ahora puedes enviar un mensaje directamente con el formulario.</li>
+                        <li> 	Se añadieron algunas que otra guía para mando de ps3.</li>
+                        <li>	Se ha mejorado un poco el off-canvas.</li>
+                        <li> Se ha rediseñado el pie de página con nuevos enlaces incorporados.</li>
+                        <li>Nuevo botón para cuando quieras volver a la parte superior de la web.</li>
+                        <li>Nuevo apartado para proyectos mios que he hecho, en un futuro podria haber proyectos de Nau.</li>
+                        <li>Algún que otro arreglo de bugs.</li>
+                    </ul>
+                    <p>Esto es todo por ahora!</p>
+                    <p>Tebrase.</p>
+                </article>
+                <article class="col-lg-12">
+                    <hr>
+                    <p>27/05/17 @13:13</p>
+                    <p>Buenas!,</p>
                     <p>Después de mucho tiempo me decidido volver a modificar la web, como ya dispongo de más experiencia en programación y queria repasar como hacer una web responsive, pues aqui esta!</p>
                     <p>Cambios realizados:</p>
                     <ul>
@@ -172,21 +190,10 @@
             </section>
 
             <!-- END ARTICLES -->
-
-            <footer>
-                <p><a href="https://www.facebook.com/groups/465723736814961/" target="blank"><img class="img-responsive img-centrar" alt="facebook" src="Imagenes/facebook.png"></a></p>
-                <p class="text-center"> <a href="HTML/soporte.php">Contacto con el soporte</a></p>
-
-
-                <!-- Aduio de Navidad
-                 <audio controls autoplay>
-                
-                <source src="Musica/musica-minions-navidad.mp3" type="audio/mpeg">
-              Your browser does not support the audio element.
-              </audio>-->
-            </footer>
-
         </main>
+        <?php include('footer.php'); ?>
+
+
         <script>
             /*
              * Open the drawer when the menu icon is clicked.

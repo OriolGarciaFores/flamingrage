@@ -113,11 +113,8 @@
                 <p>Finalmente cada una de las plantillas le colocáis un nombre que podáis reconocer y lo guardáis. Como consejo agregadlo como favorito y así cada vez que deseáis renderizar un video, marcáis la casilla Mostrar solo favoritos y tendréis vuestras configuraciones propias de renderizado de alta definición.</p>
                 <p>Espero que les sea útil esta guía y suerte a todos!</p>
             </section>
-
-            <footer><p><a href="https://www.facebook.com/groups/465723736814961/"><img class="img-responsive img-centrar" alt="facebook" src="../Imagenes/facebook.png"></a></p>
-                <p class="text-center"><a href="soporte.php">Contacto con el soporte</a></p>
-            </footer>
         </main>
+        <?php include('footer.php'); ?>
         <script>
             /*
              * Open the drawer when the menu icon is clicked.

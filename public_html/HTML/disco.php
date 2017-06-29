@@ -144,9 +144,8 @@
                     </div>
                 </article>
             </section>
-            <footer><p><a href="https://www.facebook.com/groups/465723736814961/"><img class="img-responsive img-centrar" alt="facebook" src="../Imagenes/facebook.png"></a></p>
-                <p class="text-center"><a href="soporte.php">Contacto con el soporte</a> </p></footer>
         </main>
+        <?php include('footer.php'); ?>
         <script>
             /*
              * Open the drawer when the menu icon is clicked.

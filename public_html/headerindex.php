@@ -38,15 +38,7 @@
                 <li class="last"><a href='http://es.nostale.gameforge.com/news/index'><span>Nostale</span></a></li>
             </ul>
         </li>
-        <li class="nav__item"><a href='#'><span>Comunidad</span></a>
-            <ul>
-
-
-
-                <li><a href="HTML/disco.php"><span>Disco Anime</span></a></li> 
-                <li class='last'><a href='https://drive.google.com/file/d/0B5KROJmqTZaiVUVxMTU0ekRMUkE/edit?usp=sharing' target="_blank"><span>Normativa</span></a></li>
-            </ul>
-        </li>
+        <li class="nav__item"><a href="HTML/disco.php"><span>Disco</span></a></li>
     </ul>
 
 

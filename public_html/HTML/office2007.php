@@ -52,9 +52,8 @@
                     <p>KGFVY-7733B-8WCK9-KTG64-BC7D8</p>
                 </div>
             </section>
-            <footer><p><a href="https://www.facebook.com/groups/465723736814961/"><img class="img-responsive img-centrar" alt="facebook" src="../Imagenes/facebook.png"></a></p>
-                <p class="text-center"><a href="soporte.php">Contacto con el soporte</a></p></footer>
         </main>
+        <?php include('footer.php'); ?>
         <script>
             /*
              * Open the drawer when the menu icon is clicked.
