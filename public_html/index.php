@@ -97,7 +97,7 @@
                 <header><h2 class="separador text-center">Ultimos cambios</h2></header>
 
                 <article class="col-lg-12">
-                    <p>27/05/17 @13:13</p>
+                    <p>29/06/17 @22:00</p>
                     <p>Buenas!,</p>
                     <p>Ya llevo un tiempo realizando una serie de arreglos en la web.</p>
                     <p>Cambios realizados:</p>
