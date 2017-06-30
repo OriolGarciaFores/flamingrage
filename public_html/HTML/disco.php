@@ -45,7 +45,7 @@
                 <article class="row">
                     <header><h2 class="separador text-center">Nightcore</h2></header>
 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232012019&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
                             <div class="caption text-center"><h3>Nightcore Rock Tomo 1</h3></div>
@@ -53,7 +53,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232017663&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
                             <div class="caption text-center">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/VQy7gCet35s" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/PUh8uiR7Dao" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -77,7 +77,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/Z3yc4bfapGE" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -85,7 +85,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/WnYzeRW20A8" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -98,7 +98,7 @@
                     <header class="separador text-center"><h2>Openings</h2></header>
 
 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232007543&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
                             <div class="caption text-center">
@@ -106,7 +106,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://www.youtube.com/embed/Pjxnery7i80" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -118,7 +118,7 @@
                 <article class="row">
                     <header class="separador text-center"><h2>Directos Nightcore</h2></header>
 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://www.youtube.com/embed/TtNkgR_sKjU" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -126,7 +126,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://www.youtube.com/embed/VrK6g1D55GM" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
@@ -134,7 +134,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://www.youtube.com/embed/yz9anC5Qst4" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">

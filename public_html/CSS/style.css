@@ -320,5 +320,11 @@ footer {
   #cssmenu .nav__item:hover ul {
     top: 1em;
     visibility: visible; } }
+@media screen and (max-width: 474px) {
+  footer img {
+    min-width: 32px !important;
+    min-height: 32px !important; }
+  footer .col-xs-offset-footer {
+    margin-left: 10%; } }
 
 /*# sourceMappingURL=style.css.map */

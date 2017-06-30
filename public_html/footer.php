@@ -21,7 +21,7 @@
         </div>
         <hr style="border-color: green;">
         <div class="row">
-            <div class="col-xs-offset-3">
+            <div class="col-xs-offset-3 col-xs-offset-footer">
                 <p class="col-xs-2"><a href="https://www.facebook.com/groups/465723736814961/" target="blank"><img class="img-responsive" alt="facebook" src="Imagenes/facebook.png"></a></p>
                 <p class="col-xs-2"><a href="https://twitter.com/OriolTebra" target="blank">
                         <img class="img-responsive" alt="facebook" src="http://www.upmc.fr/skins/UPMC/resources/img/logo32-twitter.png">

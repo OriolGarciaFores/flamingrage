@@ -417,3 +417,15 @@ footer{
         }
     }
 }
+
+@media screen and (max-width: 474px){
+    footer{
+        img{
+            min-width: 32px !important; 
+            min-height: 32px !important;
+        }
+        .col-xs-offset-footer{
+           margin-left: 10%;
+        }
+    }
+}
