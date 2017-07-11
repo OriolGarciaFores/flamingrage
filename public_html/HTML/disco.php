@@ -30,18 +30,11 @@
 
         <main class="container">
             <section class="subcontenido">
-                <div class="row">
-                    <div class="col-md-2 col-sm-4 col-xs-2">
-                        <img class="img-responsive img-centrar" src="http://i824.photobucket.com/albums/zz165/losenarubi/altavoz.gif" alt="photoAltavoz"/>
-                    </div>
-                    <div class="col-md-6 col-sm-4 col-xs-6">
+                <article class="row">
+                    <div class="col-xs-12">
                         <img class="img-responsive img-centrar" src="../Imagenes/The%20Rolling%20Girls%202.gif" alt="photoAltavoz"/>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-2">
-                        <img class="img-responsive img-centrar" src="http://i824.photobucket.com/albums/zz165/losenarubi/altavoz.gif" alt="photoAltavoz"/>
-                    </div>
-                </div>
-
+                </article>
                 <article class="row">
                     <header><h2 class="separador text-center">Nightcore</h2></header>
 
@@ -90,6 +83,22 @@
                             <iframe src="https://www.youtube.com/embed/WnYzeRW20A8" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
                                 <h3>Nightcore Gaming NCS</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="img-thumbnail ">
+                            <iframe src="https://www.youtube.com/embed/9PIuyzg_qUw" frameborder="0" allowfullscreen></iframe>
+                            <div class="caption text-center">
+                                <h3>Nightcore Gaming Mix</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="img-thumbnail ">
+                            <iframe src="https://www.youtube.com/embed/hN7uX7stu6c" frameborder="0" allowfullscreen></iframe>
+                            <div class="caption text-center">
+                                <h3>Nightcore Mix 5h</h3>
                             </div>
                         </div>
                     </div>
