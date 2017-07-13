@@ -7,12 +7,12 @@
             <h5 class="col-xs-4"><strong>CONTACTAR</strong></h5>
         </div>
         <div class="row">
-            <p class="col-xs-4"><a href="HTML/mantenimiento.php">Sobre la web</a></p>
+            <p class="col-xs-4"><a href="HTML/info-web.php">Sobre la web</a></p>
             <p class="col-xs-4"><a href="https://elchapuzasinformatico.com/" target="blank">Chapuzas informatico</a></p>
             <p class="col-xs-4"><a href="HTML/soporte.php">Centro de soporte</a></p>
         </div>
         <div class="row">
-            <p class="col-xs-4"><a href="HTML/mantenimiento.php">Equipo</a></p>
+            <p class="col-xs-4"><a href="HTML/equipo.php">Equipo</a></p>
             <p class="col-xs-4"><a href="http://www.3djuegos.com/novedades/noticias/juegos/0f0f0f0/fecha/" target="blank">3D Juegos</a></p>
         </div>
         <div class="row">

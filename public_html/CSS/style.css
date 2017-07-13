@@ -206,6 +206,11 @@ NAVIGATION
     height: auto;
     opacity: 1;
     padding: 10px; }
+  .subcontenido .thumbnail {
+    background-color: transparent;
+    border: 0 none; }
+    .subcontenido .thumbnail .caption-perfil {
+      padding: 1em; }
 
 /*
   ========================================
