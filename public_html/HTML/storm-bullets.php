@@ -37,7 +37,7 @@
                 </article>
                 <article>
                     <header><h2 class="separador text-center">INTRODUCCIÓN</h2></header>
-                    <p>Este proyecto de trata de un videojuego en 2D programado en Java, en que la gran parte
+                    <p>Este proyecto se trata de un videojuego en 2D programado en Java, en que la gran parte
                         del proyecto se programa el motor grafico, sin uso de Frameworks u otras aplicaciones
                         externas.</p>
                     <p>Estilos: 
@@ -66,7 +66,7 @@
                     </p>
                 </article>
                 <article>
-                    <header><h2 class="separador text-center">TECNOLOGIAS USADAS</h2></header>
+                    <header><h2 class="separador text-center">TECNOLOGÍAS USADAS</h2></header>
                     <p>
                     <li>NetBeans: Un IDE, es decir, un software virtualizador que permite programar en java, entre otros lenguajes de programación.</li>
                     <li>Photoshop: Un editor de imagen, con el que se ha diseñado todas las imágenes del juego.</li>
@@ -166,6 +166,21 @@
                         bola de fuego.</p>
                     <p>Hasta aquí el tutorial y mi proyecto! =)</p>
                 </article>
+                 <article>
+                    <header><h2 class="separador text-center">STORM BULLETS 1.0.2</h2></header>
+                    <p>Storm Bullets ya dispone de 3 diferentes idiomas; Inglés, Español y Catalan. También incluye nuevos mapas y un nuevo bioma.</p>
+                    <h2 class="text-center">Notas del parche</h2>
+                    <ul>
+                        <li>Traducciones de Inglés, Español y Catalan.</li>
+                        <li>Nuevo elemento del menú para configurar el idioma.</li>
+                        <li>Ahora se guarda las configuraciones establecidas.</li>
+                        <li>Nuevos mapas.</li>
+                        <li>Nuevo bioma de hielo.</li>
+                        <li>Nuevos enemigos.</li>
+                        <li>Nuevo boss en el bioma de hielo.</li>
+                    </ul>
+                    <h2>Previsualizaciones del bioma de nieve</h2>
+                 </article>
             </section>
         </main>
         <?php include('footer.php'); ?>
