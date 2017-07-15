@@ -49,6 +49,8 @@
                 mail($destino, $asunto, $consulta, $headers);
 
                 $_SESSION['succes'] = "<span style='color: green;'>Mensaje enviado</span>";
+            }else{
+                $_SESSION['error'] = "<span style='color: red;'>Campos vacios o incorrectos.</span>";
             }
         }
 
