@@ -37,18 +37,63 @@
 
                 <article>
                     <header><h2 class="separador text-center">INTRODUCCIÓN</h2></header>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- INDICADORES las redondas -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                        </ol>
+                        <!-- END INDICADORES -->
+                        <!-- LISTA IMAGENES -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img src="../Imagenes/slider-antiguaweb.jpg" alt="Los Angeles" style="width:100%;">
+                            </div>
+
+                            <div class="item">
+                                <img src="../Imagenes/slider-antiguaweb2.JPG" alt="Chicago" style="width:100%;">
+                            </div>
+                        </div>
+                        <!-- END LISTA IMAGENES -->
+                        <!-- CONTROLES SLIDER -->
+                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                        <!-- END CONTROLES SLIDER -->
+                    </div>
+                    <br>
+
+                    <p>Este proyecto se trata de la web Flaming Rage. Este proyecto lo inicié con el fin de aprender a programar webs por mi cuenta. En las imágenes anteriores se puede contemplar los cambios que se han realizado durante los años de esta web.
+                        En un inicio, todo empezó con HTML4 y CSS simples. No usé ningún framework, se empezó simplemente con un Bloc de notas y a programar.</p>
+                    <p>Con el paso del tiempo se ha ido mejorando hasta llegar ahora. Actualmente si uso un framework simple, llamado Bootstrap, con el que la web el estado actual esta rediseñada con ello.</p>
+                    <p>La web está destinada para aquellos usuarios que necesitan ayuda en algunos programas informáticos y ofrecer facilidad de obtenerlos y aprender a usarlos.</p>
                 </article>
                 <article>
                     <header><h2 class="separador text-center">FUNCIONALIDADES</h2></header>
+                    <p>
+                    <li>Web responsiva para ordenador, tablets y móviles.</li>
+                    <li>Música.</li>
+                    <li>Guías y descargas.</li>
+                    </p>
                 </article>
                 <article>
-                    <header><h2 class="separador text-center">TECNOLOGIAS USADAS</h2></header>
-                </article>
-                <article>
-                    <header><h2 class="separador text-center">SKETCHES</h2></header>
+                    <header><h2 class="separador text-center">TECNOLOGÍAS USADAS</h2></header>
+                    <p>
+                    <li>En los inicios Bloc de notas: Un simple documento de texto básico que viene con el sistema operativo y acepta multitud de extensiones.</li>
+                    <li>Seguidamente Dreamweaver: es una aplicación que sirve para programar y diseñar webs de una forma fácil.</li>
+                    <li>Finalmente acabe usando NetBeans: Un IDE, es decir, un software virtualizador que permite programar en muchos lenguajes.</li>
+                    <li>Photoshop: Un editor de imágenes, con el que adapto o redimensiono las imágenes para la web.</li>
+                    </p>
                 </article>
                 <article>
                     <header><h2 class="separador text-center">FUTUROS OBJETIVOS</h2></header>
+                    <p>
+                    <li>Mejorar el menú off-canvas.</li>
+                    <li>Mejorar el footer en versión móvil.</li>
+                    </p>
                 </article>
 
             </section>

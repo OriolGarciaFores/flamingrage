@@ -16,7 +16,7 @@
         <li class="nav__item"><a href="index.php"><span>Inicio</span></a></li>
         <li class="nav__item"><a href="#"><span>Proyectos</span></a>
             <ul>
-                <li><a href="HTML/mantenimiento.php"><span>Flaming Rage</span></a></li>
+                <li><a href="HTML/flaming-rage.php"><span>Flaming Rage</span></a></li>
                 <li class="last"><a href="HTML/storm-bullets.php"><span>Storm Bullets</span></a></li>
             </ul>
         </li>
