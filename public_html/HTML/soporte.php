@@ -59,6 +59,7 @@
                             <div class="form-group">
                                 <button type="submit" name="enviar" class="btn btn-primary">Enviar consulta</button>
                                 <?php echo $_SESSION['succes']; ?>
+                                <?php echo $_SESSION['error']; ?>
                             </div>
                         </div>                                          
                     </form>
