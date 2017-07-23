@@ -1,23 +1,45 @@
 <footer>
     <button onclick="topFunction()" id="myBtn"  title="Go to top">Top</button>
     <div class="container">
-        <div class="row">
-            <h5 class="col-xs-4"><strong>QUIÉNES SOMOS</strong></h5>
-            <h5 class="col-xs-4"><strong>SITIOS DE INTERES</strong></h5>
-            <h5 class="col-xs-4"><strong>CONTACTAR</strong></h5>
+        <div class="hidden-xs">
+            <div class="row">
+                <h5 class="col-xs-4"><strong>QUIÉNES SOMOS</strong></h5>
+                <h5 class="col-xs-4"><strong>SITIOS DE INTERES</strong></h5>
+                <h5 class="col-xs-4"><strong>CONTACTAR</strong></h5>
+            </div>
+            <div class="row">
+                <p class="col-xs-4"><a href="info-web.php">Sobre la web</a></p>
+                <p class="col-xs-4"><a href="https://elchapuzasinformatico.com/" target="blank">Chapuzas informatico</a></p>
+                <p class="col-xs-4"><a href="soporte.php">Centro de soporte</a></p>
+            </div>
+            <div class="row">
+                <p class="col-xs-4"><a href="equipo.php">Equipo</a></p>
+                <p class="col-xs-4"><a href="http://www.3djuegos.com/novedades/noticias/juegos/0f0f0f0/fecha/" target="blank">3D Juegos</a></p>
+            </div>
+            <div class="row">
+                <p class="col-xs-4"><a href='https://drive.google.com/file/d/0B5KROJmqTZaiVUVxMTU0ekRMUkE/edit?usp=sharing' target="_blank">Normativa</a></p>
+                <p class="col-xs-4"><a href='http://animeflv.net/' target="_blank">Anime FLV</a></p>
+            </div>
         </div>
-        <div class="row">
-            <p class="col-xs-4"><a href="info-web.php">Sobre la web</a></p>
-            <p class="col-xs-4"><a href="https://elchapuzasinformatico.com/" target="blank">Chapuzas informatico</a></p>
-            <p class="col-xs-4"><a href="soporte.php">Centro de soporte</a></p>
-        </div>
-        <div class="row">
-            <p class="col-xs-4"><a href="equipo.php">Equipo</a></p>
-            <p class="col-xs-4"><a href="http://www.3djuegos.com/novedades/noticias/juegos/0f0f0f0/fecha/" target="blank">3D Juegos</a></p>
-        </div>
-        <div class="row">
-            <p class="col-xs-4"><a href='https://drive.google.com/file/d/0B5KROJmqTZaiVUVxMTU0ekRMUkE/edit?usp=sharing' target="_blank">Normativa</a></p>
-            <p class="col-xs-4"><a href='http://animeflv.net/' target="_blank">Anime FLV</a></p>
+        <div class="visible-xs">
+            <div class="row">
+                <h5 class="col-xs-12" ><strong>QUIÉNES SOMOS</strong><span class="glyphicon glyphicon-plus pull-right" id="who"></span></h5>
+                <div id="panel_who">
+                    <p class="col-xs-12"><a href="info-web.php">Sobre la web</a></p>
+                    <p class="col-xs-12"><a href="equipo.php">Equipo</a></p>
+                    <p class="col-xs-12"><a href='https://drive.google.com/file/d/0B5KROJmqTZaiVUVxMTU0ekRMUkE/edit?usp=sharing' target="_blank">Normativa</a></p>
+                </div>
+                <h5 class="col-xs-12"><strong>SITIOS DE INTERES</strong><span class="glyphicon glyphicon-plus pull-right" id="websites"></span></h5>
+                <div id="panel_websites">
+                    <p class="col-xs-12"><a href="https://elchapuzasinformatico.com/" target="blank">Chapuzas informatico</a></p>
+                    <p class="col-xs-12"><a href="http://www.3djuegos.com/novedades/noticias/juegos/0f0f0f0/fecha/" target="blank">3D Juegos</a></p>
+                    <p class="col-xs-12"><a href='http://animeflv.net/' target="_blank">Anime FLV</a></p>
+                </div>
+                <h5 class="col-xs-12"><strong>CONTACTAR</strong><span class="glyphicon glyphicon-plus pull-right" id="contact"></span></h5>
+                <div id="panel_contact">
+                    <p class="col-xs-12"><a href="soporte.php">Centro de soporte</a></p>
+                </div>
+            </div>
         </div>
         <hr style="border-color: green;">
         <div class="row">
@@ -63,5 +85,18 @@
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
         }
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#who').click(function () {
+                $('#panel_who').slideToggle("slow");
+            });
+            $('#websites').click(function () {
+                $('#panel_websites').slideToggle("slow");
+            });
+            $('#contact').click(function () {
+                $('#panel_contact').slideToggle("slow");
+            });
+        });
     </script>
 </footer>

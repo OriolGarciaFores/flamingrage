@@ -239,6 +239,17 @@ footer {
     padding: 15px; }
   footer #myBtn:hover {
     background-color: #555; }
+  footer a {
+    color: #ffffff; }
+    footer a:focus {
+      color: #ffffff;
+      text-decoration: none; }
+  footer #panel_who {
+    display: none; }
+  footer #panel_websites {
+    display: none; }
+  footer #panel_contact {
+    display: none; }
 
 /*
   ========================================

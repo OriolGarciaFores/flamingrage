@@ -327,6 +327,27 @@ footer{
     #myBtn:hover {
         background-color: #555;
     }
+    
+    
+    a{
+        color: #ffffff;
+        &:focus{
+            color: #ffffff;
+            text-decoration: none;
+        }
+    }
+    
+    #panel_who{
+        display: none;
+    }
+    
+    #panel_websites{
+        display: none;
+    }
+    
+    #panel_contact{
+        display: none;
+    }
 
 }
 /*
