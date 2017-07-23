@@ -40,22 +40,22 @@
 
                 <div class="row">
                     <form action="<?php echo htmlspecialchars("envio.php"); ?>" method="POST">
-                        <div class="col-xs-offset-2 col-xs-8">
+                        <div class="col-sm-offset-2 col-sm-8">
                             <div class="form-group">
                                 <input placeholder="Nombre o Nick" name="name" type="text" class="form-control" required/>
                             </div>
                         </div>
-                        <div class="col-xs-offset-2 col-xs-8">
+                        <div class="col-sm-offset-2 col-sm-8">
                             <div class="form-group">
                                 <input placeholder="Correo electónico" type="email" name="email" class="form-control" required />   
                             </div>
                         </div>
-                        <div class="col-xs-offset-2 col-xs-8">
+                        <div class="col-sm-offset-2 col-sm-8">
                             <div class="form-group">
                                 <textarea name="consulta" rows="5" placeholder="Consulta" class="form-control" required></textarea>
                             </div>
                         </div>
-                        <div class="col-xs-offset-2 col-xs-8">
+                        <div class="col-sm-offset-2 col-sm-8">
                             <div class="form-group">
                                 <button type="submit" name="enviar" class="btn btn-primary">Enviar consulta</button>
                                 <?php echo $_SESSION['succes']; ?>
