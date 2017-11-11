@@ -124,34 +124,6 @@
                         </div>
                     </div>
                 </article>
-                <article class="row">
-                    <header class="separador text-center"><h2>Directos Nightcore</h2></header>
-
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="img-thumbnail">
-                            <iframe src="https://www.youtube.com/embed/TtNkgR_sKjU" frameborder="0" allowfullscreen></iframe>
-                            <div class="caption text-center">
-                                <h3>Ultimate 24/7 Radio</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="img-thumbnail">
-                            <iframe src="https://www.youtube.com/embed/VrK6g1D55GM" frameborder="0" allowfullscreen></iframe>
-                            <div class="caption text-center">
-                                <h3>Best of 2017 24/7 Radio</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="img-thumbnail">
-                            <iframe src="https://www.youtube.com/embed/yz9anC5Qst4" frameborder="0" allowfullscreen></iframe>
-                            <div class="caption text-center">
-                                <h3>King's Supreme 24/7 Radio</h3>
-                            </div>
-                        </div>
-                    </div>
-                </article>
             </section>
         </main>
         <?php include('footer.php'); ?>
