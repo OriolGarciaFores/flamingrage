@@ -41,7 +41,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="img-thumbnail">
                             <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232012019&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-                            <div class="caption text-center"><h3>Nightcore Rock Tomo 1</h3></div>
+                            <div class="caption text-center"><h3>Rock Tomo 1</h3></div>
 
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                         <div class="img-thumbnail ">
                             <iframe  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232017663&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
                             <div class="caption text-center">
-                                <h3>Nightcore Rock Tomo 2</h3>
+                                <h3>Rock Tomo 2</h3>
                             </div>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/VQy7gCet35s" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
-                                <h3>Nightcore Mix</h3>
+                                <h3>Mix</h3>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/Z3yc4bfapGE" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
-                                <h3>BEST EPIC NIGHTCORE</h3>
+                                <h3>BEST EPIC</h3>
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/WnYzeRW20A8" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
-                                <h3>Nightcore Gaming NCS</h3>
+                                <h3>Gaming NCS</h3>
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/9PIuyzg_qUw" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
-                                <h3>Nightcore Gaming Mix</h3>
+                                <h3>Gaming Mix</h3>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="img-thumbnail ">
                             <iframe src="https://www.youtube.com/embed/hN7uX7stu6c" frameborder="0" allowfullscreen></iframe>
                             <div class="caption text-center">
-                                <h3>Nightcore Mix 5h</h3>
+                                <h3>Mix 5h</h3>
                             </div>
                         </div>
                     </div>
